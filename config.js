@@ -4,13 +4,13 @@ global.mods = []
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.nameowner = 'Lyyn Elitee'
+global.numberowner = '6285790803867'
+global.instagram = 'https://instagram.com/marselh.a'
+global.github = 'https://github.com/mrlynx442'
+global.dana = '08232865277'
+global.pulsa = '085790803867'
+global.gopay = '085790803867'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'ShiroBot-Md'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'Zuka Beta'
+global.wm = 'LyynBot-MD Beta'
 global.watermark = wm
-global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.wm2 = '                     「 LyynBot-MD Beta あ⁩ 」'
+global.wm3 = '⫹⫺ LyynBot-MD Beta'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
